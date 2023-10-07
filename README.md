@@ -57,6 +57,6 @@ Este proyecto demuestra cómo se puede utilizar Arduino y Bluetooth para crear u
   <img src="qr.png" width="400" />
 </p>
 <p align="center">
-  <i>Esquemático</i>
+  <i>DESCARGAR APP</i>
 </p>
 
