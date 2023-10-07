@@ -52,3 +52,11 @@ Este proyecto tiene como objetivo la creación de un telégrafo controlado por u
 
 Este proyecto demuestra cómo se puede utilizar Arduino y Bluetooth para crear un sistema de telégrafo interactivo que permite la transmisión de mensajes a través de señales acústicas y visuales. Además, la adición de la funcionalidad de traducción de pulsaciones a texto facilita una comunicación más eficiente y enriquecedora.
 
+---
+ <p align="center">
+  <img src="qr.png" width="400" />
+</p>
+<p align="center">
+  <i>Esquemático</i>
+</p>
+
